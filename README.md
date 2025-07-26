@@ -1,9 +1,7 @@
 <!-- Animated Typing Title -->
 <h1 align="center">
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FF6F91;">
-  Hi, I am Manash <span style="color: #00BFFF;">Sarkar</span>
-</h1>
-<p align="center" style="font-size:1.2rem;">🎓 Final Year B.Tech CSE (AI & ML) | Tech Enthusiast 🤖</p>
+<img width="400" height="600" alt="38399d72-974a-4d0a-83fe-dff5225633cd" src="https://github.com/user-attachments/assets/211488f3-cc72-486b-9947-986e232f735b" />
+
 
 ---
 
