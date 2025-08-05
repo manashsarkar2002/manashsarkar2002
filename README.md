@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-```diff
+
 + 🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML), Class of 2026
 + 🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development
 + 📚 Sharpening my core CS skills (OOPS, DBMS, Networking)
-+ 🔬 Working on real-world projects & research
++ 🔬 Working on real-world projects 
 + 🤝 Open to internships, collaborations & learning opportunities
-```
+
 <details> <summary><strong>🧰 Tech Toolbox (click to expand)</strong></summary>
   
 💻 Programming Languages
