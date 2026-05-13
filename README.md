@@ -1,6 +1,5 @@
 <!-- Animated Typing Title -->
-<img width="1536" height="419" alt="Manash Sarkar (5)" src="https://github.com/user-attachments/assets/9560d6aa-b90a-4295-9cce-9ba6c2fad929" />
-
+<img width="1584" height="396" alt="Manash Sarkar" src="https://github.com/user-attachments/assets/5f6c3de0-53ef-424c-9084-315d04cf7ac0" />
 
 ---
 
