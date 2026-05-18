@@ -1,47 +1,135 @@
-<!-- Animated Typing Title -->
-<img width="1584" height="396" alt="Manash Sarkar" src="https://github.com/user-attachments/assets/5f6c3de0-53ef-424c-9084-315d04cf7ac0" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,50:00f2fe,100:43e97b&text=Manash%20Sarkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Software%20Developer&descAlignY=60" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;Passionate+About+AI+%26+Software+Development;Java+%7C+SQL+%7C+Cloud+Learner;Building+Projects+%26+Learning+Everyday+🚀" />
+</p>
 
 ---
 
-## 🚀 About Me
+# ✨ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-+ 🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML), Class of 2026
-+ 🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development
-+ 📚 Sharpening my core CS skills (OOPS, DBMS, Networking)
-+ 🔬 Working on real-world projects 
-+ 🤝 Open to internships, collaborations & learning opportunities
+- 🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML), Class of 2026  
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development  
+- 📚 Sharpening my core CS skills (OOPS, DBMS, Networking)  
+- 🔬 Working on real-world projects  
+- 🤝 Open to internships, collaborations & learning opportunities  
 
-<details> <summary><strong>🧰 Tech Toolbox (click to expand)</strong></summary>
+---
+
+# ⚡ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+
+## 🚀 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="65"/>
+</p>
+
+---
+
+## 🛢 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="65"/>
   
-💻 Programming Languages
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="65"/>
+</p>
 
-🌐 Web Technologies
-<img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/XML-00618A?style=flat-square&logo=w3c&logoColor=white" /> <img src="https://img.shields.io/badge/J2EE-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JSP-003366?style=flat-square&logo=java&logoColor=white" />
+---
 
-🛢 Databases
-<img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+## ⚙ 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼
 
-🤖 AI / ML Libraries
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-7e3794?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65"/>
+  
+  <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+  
+  <img src="https://skillicons.dev/icons?i=spring" height="65"/>
+  
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-🧰 IDEs & Editors
-<img src="https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img src="https://img.shields.io/badge/Dreamweaver-330000?style=flat-square&logo=adobe&logoColor=white" /> </details>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
+</p>
 
+---
 
+## 🌐 𝓢𝓮𝓻𝓿𝓮𝓻
 
-🎉 Fun Corner
-🎧 Lofi beats + coding = productivity mode
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="65"/>
+</p>
 
-🔎 Debugging motto: println > breakpoints
+---
 
-☕ Fuel: caffeine + code
+# 🛠 𝓣𝓸𝓸𝓵𝓼 & 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶𝓼
 
-😂 Real skill: Explaining bugs like “features”
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman" />
+</p>
 
-<p align="center"> <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="200" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" /> </p>
-📫 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/manash-sarkar-96bb3b270" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Manash-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:manashsarkar2002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail" /> </a> </p>
-<!-- Footer Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=100&section=footer" /> </p> 
+---
+
+# 🎉 𝓕𝓾𝓷 𝓒𝓸𝓻𝓷𝓮𝓻
+
+```java
+while(true){
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+
+- 🎧 `Lofi + Dark Mode + Late Night Coding = Peak Developer Energy 🚀`
+- 🔥 `Turning coffee into clean code since day one ☕`
+- 🐛 `99% debugging, 1% questioning my life choices 😵‍💫`
+- 💻 `if(codeWorks){ celebrate(); } else { callAI(); }`
+- ⚡ `Professional Stack Overflow Explorer 🧠`
+- 😂 `My bugs are not errors... they’re undocumented features ✨`
+- 🌙 `Sleep? Deprecated. Deploy? Mandatory.`
+- 🚀 `Building projects one commit at a time`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
+</p>
+
+---
+
+# 🤝 𝓛𝓮𝓽’𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manash-sarkar-96bb3b270" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+
+  <a href="mailto:manashsarkar2002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+</p>
+
+---
+
+<!-- Animated Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,25:00D9F5,50:8A2BE2,75:FF4ECD,100:FF6B6B&height=180&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+🚀;Keep+Coding+%7C+Keep+Learning+%7C+Keep+Building+⚡;Java+%7C+Backend+%7C+AI+%7C+Cloud+☁️;See+You+Again!+😄" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Mode-ON-success?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
