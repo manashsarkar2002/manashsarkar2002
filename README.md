@@ -14,12 +14,8 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Final Year B.Tech in Computer Science & Engineering (AI & ML), Class of 2026  
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Software Development  
-- 📚 Sharpening my core CS skills (OOPS, DBMS, Networking)  
-- 🔬 Working on real-world projects  
-- 🤝 Open to internships, collaborations & learning opportunities  
-
+-  B.Tech in Computer Science & Engineering (AI & ML) 
+- 🤖 Passionate about Software Development, Networks, Cloud-Computing  
 ---
 
 # ⚡ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
